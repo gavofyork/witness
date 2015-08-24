@@ -1,4 +1,4 @@
-# The Witness Algorithm: Privacy Protection in a Fully Transparent System
+# The Cross-Witness Algorithm: Privacy Protection in a Fully Transparent System
 By **Vlad Gluhovsky** and **Gavin Wood**
 
 # Introduction
